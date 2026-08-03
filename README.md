@@ -1,16 +1,44 @@
-### 👩🏻‍💻 AI & Data Science Student at King Saud University
+### AI & Data Science Student @ King Saud University
 
-I am passionate about **Machine Learning**, **Data Analytics**, and **Software Development**.
+Interested in developing AI-driven solutions through Machine Learning, Data Analytics, and Software Engineering. I enjoy building practical applications and exploring real-world problems using data.
 
 ---
 
-## Skills & Technologies
+## 💻 Programming
+- Python
+- Java
+- PHP
+- SQL
+- HTML/CSS
+- JavaScript
 
-*   **Programming Languages:** Python, Java, PHP, SQL, HTML/CSS, JavaScript.
-*   **AI & Data Science:** Machine Learning, Deep Learning, Computer Vision, NLP, Data Mining, Transfer Learning (CNNs, VGG16, RNNs), TensorFlow, Keras, Scikit-learn, SMOTE.
-*   **Software & App Development:** Flutter, Object-Oriented Programming (OOP), Multi-threaded Client-Server Architecture, Responsive Web Design.
-*   **Databases:** MySQL, Oracle SQL, Relational Database Design.
-*   **Tools & Design:** Jupyter Notebook, Oracle App Builder, Figma, Jira, Project Plan 365.
+## 🤖 AI & Data Science
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- TensorFlow
+- Keras
+- Scikit-learn
+
+## 📱 Software Development
+- Flutter
+- OOP
+- Client-Server Architecture
+- Responsive Web Design
+
+## 🗄 Databases
+- MySQL
+- Oracle SQL
+
+## 🛠 Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- Figma
+- Jira
+- Project Plan 365
+
   
 ---
 
