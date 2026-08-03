@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👩🏻‍💻 AI & Data Science Student at King Saud University
 
-<!--
-**NouraaaW/NouraaaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about **Machine Learning**, **Data Analytics**, and **Software Development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+*   **Programming Languages:** Python, Java, PHP, SQL, HTML/CSS, JavaScript.
+*   **AI & Data Science:** Machine Learning, Deep Learning, Computer Vision, NLP, Data Mining, Transfer Learning (CNNs, VGG16, RNNs), TensorFlow, Keras, Scikit-learn, SMOTE.
+*   **Software & App Development:** Flutter, Object-Oriented Programming (OOP), Multi-threaded Client-Server Architecture, Responsive Web Design.
+*   **Databases:** MySQL, Oracle SQL, Relational Database Design.
+*   **Tools & Design:** Jupyter Notebook, Oracle App Builder, Figma, Jira, Project Plan 365.
+  
+---
+
+- **LinkedIn:** [LinkedIn Profile]([link](https://www.linkedin.com/in/noura-alamro-574438383/))
