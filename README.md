@@ -14,4 +14,12 @@ I am passionate about **Machine Learning**, **Data Analytics**, and **Software D
   
 ---
 
-- **LinkedIn:** ([link](https://www.linkedin.com/in/noura-alamro-574438383/))
+- **LinkedIn:** ([My Profile](https://www.linkedin.com/in/noura-alamro-574438383/))
+
+
+---
+
+## Pinned Repositories
+
+
+---
