@@ -47,7 +47,7 @@ Interested in developing AI-driven solutions through Machine Learning, Data Anal
 
 ---
 
-## Pinned Repositories
+##  Featured Projects:
 
 
 ---
