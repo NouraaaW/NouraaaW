@@ -44,16 +44,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[EcoWatt](#)** | Smart household electricity analytics engine & mobile app. | Flutter, Python, LLMs, Rule-Based Engine |
-| **[Alzheimer Classification](#)** | Deep learning models for Alzheimer stage detection using MRI scans. | Python, TensorFlow, CNNs, OpenCV |
-| **[IRTH](#)** | Smart heritage tourism mobile application project structure. | Project Management, Flutter, UI/UX |
-
----
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noura%20Alamro-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noura-alamro-574438383/)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Noura%20Alamro-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noura-alamro-574438383](https://www.linkedin.com/in/norah-alamro-574438383/)/)
