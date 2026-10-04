@@ -46,4 +46,4 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noura%20Alamro-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noura-alamro-574438383](https://www.linkedin.com/in/norah-alamro-574438383/)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Norah%20Alamro-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/norah-alamro-574438383/)
